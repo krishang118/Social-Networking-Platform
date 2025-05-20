@@ -1,12 +1,12 @@
-# Welcome to Basic Social Networking Site
+Social Networking Platform
 
-Welcome coders! This is a basic social networking site built using React.js, JavaScript, and MySQL.
+This is a basic social networking site built using React.js, JavaScript, and MySQL.
 
 ## Installation and Setup
 
 ### Prerequisites
-- React.js and npm installed on your machine
-- MySQL Workbench (version 8.0ce) and MySQL Server (version 8.0) installed
+- React.js and npm should be installed on your machine.
+- MySQL Workbench and MySQL Server installed on your machine.
 
 ### Steps
 1. Clone this repository to your local machine.
@@ -22,7 +22,7 @@ Welcome coders! This is a basic social networking site built using React.js, Jav
    npm install yarn
    yarn
    ```
-   If `yarn` is not installed, you can install it with `npm install -g yarn`.
+   If `yarn` is not installed, it can be installed with `npm install -g yarn`.
 5. Change directory to `client`:
    ```bash
    cd ../client
@@ -41,19 +41,15 @@ Welcome coders! This is a basic social networking site built using React.js, Jav
    yarn start
    ```
    This will open the development server on your localhost.
-
-## Citations
-
-I would like to thank lama dev for the inspiration of the frontend
-
+   
 ## Usage
 
-Once the servers are up and running, you can access the social networking site on your browser by navigating to `http://localhost:3000`.
+Once the servers are up and running, you can access the site on your browser by navigating to `http://localhost:3000`.
 
 ## Contributing
 
-Contributions are welcome! If you encounter any issues, have suggestions, or would like to contribute to the project, feel free to open an issue or submit a pull request.
+Contributions are welcome!
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+Distributed under the MIT License.
