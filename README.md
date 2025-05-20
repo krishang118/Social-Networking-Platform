@@ -1,6 +1,6 @@
 # Social Networking Platform
 
-This is a basic social networking site built using React.js, JavaScript, and MySQL.
+A social networking site built using React.js, JavaScript, and MySQL.
 
 ## Installation and Setup
 
