@@ -42,8 +42,6 @@ This is a basic social networking site built using React.js, JavaScript, and MyS
    ```
    This will open the development server on your localhost.
    
-## Usage
-
 Once the servers are up and running, you can access the site on your browser by navigating to `http://localhost:3000`.
 
 ## Contributing
