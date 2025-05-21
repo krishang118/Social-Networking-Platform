@@ -6,7 +6,7 @@ A social networking site built using React.js, JavaScript, and MySQL.
 
 ### Prerequisites
 - React.js and npm should be installed on your machine.
-- MySQL Workbench and MySQL Server installed on your machine.
+- MySQL Workbench and MySQL Server should be installed on your machine.
 
 ### Steps
 1. Clone this repository to your local machine.
